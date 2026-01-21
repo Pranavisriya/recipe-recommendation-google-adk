@@ -1,0 +1,60 @@
+2026-01-12 03:14:48,781 | INFO | Starting Recipe Recommendation App
+2026-01-12 03:15:19,726 | INFO | User input: I have rice and egg, suggest something Chinese
+2026-01-12 03:15:21,473 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:15:22,874 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:15:24,689 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:15:24,707 | INFO | Assistant response: Based on your ingredients and preferences, here are 3 recipes:
+1. Egg Fried Rice (15 min) - Chinese
+2. Tofu Buddha Bowl (30 min) - Asian
+3. Veggie Omelette (12 min) - American
+Which one would you like the full recipe for?
+2026-01-12 03:15:43,019 | INFO | User input: I have tomato and garlic, I want Italian food
+2026-01-12 03:15:44,004 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:15:45,394 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:15:46,671 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:15:46,678 | INFO | Assistant response: Based on your ingredients and preferences, here are 3 recipes:
+1. Vegetable Pasta (20 min) - Italian
+2. Chickpea Salad (10 min) - Mediterranean
+3. Lentil Soup (35 min) - Middle Eastern
+Which one would you like the full recipe for?
+2026-01-12 03:15:56,016 | INFO | User input: I have chickpeas and cucumber, vegan, under 15 minutes
+2026-01-12 03:15:57,107 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:15:57,517 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:15:58,350 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:15:58,355 | INFO | Assistant response: Based on your ingredients and preferences, here are 3 recipes:
+1. Chickpea Salad (10 min) - Mediterranean
+Which one would you like the full recipe for?
+2026-01-12 03:16:05,433 | INFO | User input: I have paneer, onion, and bell pepper, vegetarian
+2026-01-12 03:16:06,542 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:16:07,129 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:16:08,810 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:16:08,815 | INFO | Assistant response: Based on your ingredients and preferences, here are 3 recipes:
+1. Paneer Tikka (25 min) - Indian
+2. Veggie Omelette (12 min) - American
+3. Vegetable Pasta (20 min) - Italian
+Which one would you like the full recipe for?
+2026-01-12 03:16:15,588 | INFO | User input: I have lentils and carrot, vegan
+2026-01-12 03:16:16,769 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:16:17,284 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:16:18,379 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:16:18,385 | INFO | Assistant response: Based on your ingredients and preferences, here are 3 recipes:
+1. Lentil Soup (35 min) - Middle Eastern
+2. Tofu Buddha Bowl (30 min) - Asian
+Which one would you like the full recipe for?
+2026-01-12 03:16:26,819 | INFO | User input: Suggest some recipes
+2026-01-12 03:16:27,679 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:16:29,700 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:16:29,705 | INFO | Assistant response: Tell me what ingredients you have so I can recommend recipes.
+2026-01-12 03:16:41,421 | INFO | User input: I have beef and cheese, vegan
+2026-01-12 03:16:42,611 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:16:42,622 | INFO | Assistant response: I couldn’t find a matching recipe. Want to relax constraints or add more ingredients?
+2026-01-12 03:16:48,918 | INFO | User input: I have rice and egg, suggest Japanese food
+2026-01-12 03:16:49,926 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:16:50,442 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:16:52,097 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 03:16:52,106 | INFO | Assistant response: Based on your ingredients and preferences, here are 3 recipes:
+1. Egg Fried Rice (15 min) - Chinese
+2. Tofu Buddha Bowl (30 min) - Asian
+3. Veggie Omelette (12 min) - American
+Which one would you like the full recipe for?
+2026-01-12 03:17:18,207 | INFO | User exited the application

@@ -1,0 +1,11 @@
+id,name,cuisine,cooking_time,dietary,ingredients,instructions
+1,Chickpea Salad,Mediterranean,10,vegan|gluten-free,chickpeas|cucumber|tomato|lemon|olive oil,"Mix all ingredients, season with salt and lemon, serve cold."
+2,Paneer Tikka,Indian,25,vegetarian,paneer|yogurt|spices|bell pepper|onion,"Marinate paneer and vegetables, grill or pan fry until golden."
+3,Egg Fried Rice,Chinese,15,,rice|egg|soy sauce|spring onion|garlic,"Stir fry egg, add rice and soy sauce, toss well."
+4,Avocado Toast,American,5,vegetarian,avocado|bread|salt|pepper,"Toast bread, mash avocado, spread and season."
+5,Lentil Soup,Middle Eastern,35,vegan,lentils|onion|garlic|cumin|carrot,Simmer all ingredients until lentils are soft.
+6,Vegetable Pasta,Italian,20,vegetarian,pasta|tomato|garlic|olive oil|bell pepper,"Boil pasta, sauté vegetables, mix together."
+7,Chicken Stir Fry,Chinese,20,,chicken|soy sauce|ginger|garlic|broccoli,"Stir fry chicken and vegetables, add sauce, cook until done."
+8,Tofu Buddha Bowl,Asian,30,vegan|gluten-free,tofu|rice|spinach|carrot|soy sauce,"Bake tofu, assemble bowl with rice and veggies, drizzle sauce."
+9,Greek Yogurt Parfait,Mediterranean,5,vegetarian|gluten-free,yogurt|honey|berries|nuts,"Layer yogurt, berries, honey, and nuts in a glass."
+10,Veggie Omelette,American,12,vegetarian,egg|onion|bell pepper|spinach|cheese,"Whisk eggs, cook with vegetables, fold with cheese."
